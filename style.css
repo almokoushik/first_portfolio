@@ -26,7 +26,6 @@ section{
 }
 .top-banner{
     background-image: url("images/top-banner.png");
-     border :2px solid red;
      background-repeat: no-repeat;
 }
 .link-button{
@@ -44,14 +43,13 @@ section{
 }
 .dream-area{
     margin-top: 10%;
-    border: 2px solid navy;
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
 .exp-area{
     margin-top: 10%;
-    border: 2px solid red;
+
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
